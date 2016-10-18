@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20709.1 DP
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroMefEn", "IntroMefEn\IntroMefEn.csproj", "{0683E9FF-23B1-4D07-99C2-F7F2A51ABE90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroMef.Interfaces", "IntroMef.Interfaces\IntroMef.Interfaces.csproj", "{563E7584-032D-4795-A08F-DDA2ADABCA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroMef.Modules", "IntroMef.Modules\IntroMef.Modules.csproj", "{8C5E2D0C-A656-4C45-8F15-69394A2C5BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0683E9FF-23B1-4D07-99C2-F7F2A51ABE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0683E9FF-23B1-4D07-99C2-F7F2A51ABE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0683E9FF-23B1-4D07-99C2-F7F2A51ABE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0683E9FF-23B1-4D07-99C2-F7F2A51ABE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563E7584-032D-4795-A08F-DDA2ADABCA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563E7584-032D-4795-A08F-DDA2ADABCA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563E7584-032D-4795-A08F-DDA2ADABCA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563E7584-032D-4795-A08F-DDA2ADABCA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5E2D0C-A656-4C45-8F15-69394A2C5BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5E2D0C-A656-4C45-8F15-69394A2C5BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5E2D0C-A656-4C45-8F15-69394A2C5BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5E2D0C-A656-4C45-8F15-69394A2C5BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
